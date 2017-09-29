@@ -1,2 +1,2 @@
 <?php
-echo "ares_mysql";
+echo "ares_mysql 100";
